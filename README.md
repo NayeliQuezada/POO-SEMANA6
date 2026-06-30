@@ -18,7 +18,9 @@ Aplicar los principios fundamentales de la Programación Orientada a Objetos:
 
 ## Estructura del Proyecto
 
+# 📁 Estructura del proyecto
 
+```text
 restaurante_app/
 │
 ├── modelos/
@@ -31,8 +33,7 @@ restaurante_app/
 │
 ├── main.py
 └── README.md
-
-
+```
 ## Herencia
 
 La clase Producto funciona como clase padre.
